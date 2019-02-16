@@ -1,0 +1,12 @@
+[submodule "ardent_description"]
+	path = ardent_description
+	url = https://github.com/ARDENT-Senior-Design/ardent_description.git
+[submodule "ardent_controllers"]
+	path = ardent_controllers
+	url = https://github.com/ARDENT-Senior-Design/ardent_controllers.git
+[submodule "ardent_msgs"]
+	path = ardent_msgs
+	url = https://github.com/ARDENT-Senior-Design/ardent_msgs.git
+[submodule "ardent_locomotion_planner"]
+	path = ardent_locomotion_planner
+	url = https://github.com/ARDENT-Senior-Design/ardent_locomotion_planner.git
