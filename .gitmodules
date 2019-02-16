@@ -10,3 +10,6 @@
 [submodule "ardent_locomotion_planner"]
 	path = ardent_locomotion_planner
 	url = https://github.com/ARDENT-Senior-Design/ardent_locomotion_planner.git
+[submodule "vectornav"]
+	path = vectornav
+	url = https://github.com/ARDENT-Senior-Design/vectornav.git
